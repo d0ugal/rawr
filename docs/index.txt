@@ -1,0 +1,18 @@
+rawr
+==========
+
+.. contents::
+
+.. toctree::
+   :maxdepth: 1
+
+.. comment: split here
+
+Intro
+------------------
+
+A python network interface and command line utility for sending growl 
+notifications to a OSX host.
+
+Initially I created this to allow me to send growl notifications from virtual
+machines running on my MacBook.
